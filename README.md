@@ -5,3 +5,5 @@
 [Building Maintainable Software](https://github.com/yam-jam/book-summaries/blob/master/building-maintainable-software.md)
 
 [User-Centered Design](https://github.com/yam-jam/book-summaries/blob/master/user-centered-design.md)
+
+[Success in Programming](https://github.com/yam-jam/book-summaries/blob/master/success-in-programming.md)
