@@ -7,3 +7,5 @@
 [User-Centered Design](https://github.com/yam-jam/book-summaries/blob/master/user-centered-design.md)
 
 [Success in Programming](https://github.com/yam-jam/book-summaries/blob/master/success-in-programming.md)
+
+[Talking with Tech Leads](https://github.com/yam-jam/book-summaries/blob/master/talking-with-tech-leads.md)
